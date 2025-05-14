@@ -20,7 +20,7 @@ Cílem tohoto úkolu je hlavně vyzkoušet si základní práci s generátorem s
   - proveď v projektu `npm init` a nainstaluj Eleventy
   - nakonfiguruj Eleventy podle instrukcí v lekci **Eleventy - konfigurace** (hlavně aby se do sestaveného webu kopírovaly složky `css` a `images`)
   - v sekci `scripts` souboru *package.json* vytvoř dva skripty `build` a `serve`
-  - spusť web lokálně pomocí skriptu `serve` a vyzkoušej, zda vše funguje správně
+  - spusť web lokálně pomocí skriptu `serve` a vyzkoušej, zda vše funguje správně **//
 - **Vytvoření šablony**
   - všech pět stránek webu má společnou hlavičku a patičku
   - vytvoř ze společných částí šablonu podle instrukcí v lekci **Eleventy - První šablona**
